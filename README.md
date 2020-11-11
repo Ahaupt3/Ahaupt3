@@ -1,6 +1,6 @@
 <p align=center><img src=name.svg></p>
 
-#### Aspiring Offensive Security professional. Currently finishing my degree in Cybersecurity as well as working on related certifications.
+### Aspiring Offensive Security professional. Currently finishing my degree in Cybersecurity and working on related certifications.
 
 ## :robot: Personal Stuff
 
