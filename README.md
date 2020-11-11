@@ -4,12 +4,12 @@
 
 ## :robot: Personal Stuff
 
-![](https://img.shields.io/badge/Website-HauptSec.xyz-informational?style=flat&logo=ubuntu&logoColor=white&color=ff0000&link=https://HauptSec.xyz)
-![](https://img.shields.io/website?down_color=ff0000&down_message=Down&label=Status&up_color=00ff00&up_message=Up&url=https%3A%2F%2FHauptSec.xyz)
+[![](https://img.shields.io/badge/Website-HauptSec.xyz-informational?style=flat&logo=ubuntu&logoColor=white&color=ff0000)](https://hauptsec.xyz)
+[![](https://img.shields.io/website?down_color=ff0000&down_message=Down&label=Status&up_color=00ff00&up_message=Up&url=https%3A%2F%2FHauptSec.xyz)]()
 
-![](https://img.shields.io/github/followers/Ahaupt3?label=Followers&style=flat&logo=github&logoColor=white&color=ff0000)
-![](https://img.shields.io/github/stars/Ahaupt3?color=ff0000&label=Stars&logo=github)
-![](https://img.shields.io/badge/Twitter-Ahaupt3-informational?style=flat&logo=twitter&logoColor=white&color=ff0000&link=https://twitter.com/ahaupt3)
+[![](https://img.shields.io/github/followers/Ahaupt3?label=Followers&style=flat&logo=github&logoColor=white&color=ff0000)]()
+[![](https://img.shields.io/github/stars/Ahaupt3?color=ff0000&label=Stars&logo=github)]()
+[![](https://img.shields.io/badge/Twitter-Ahaupt3-informational?style=flat&logo=twitter&logoColor=white&color=ff0000)](https://twitter.com/ahaupt3)
 
 ## :hammer_and_wrench: Technologies & Tools
 
