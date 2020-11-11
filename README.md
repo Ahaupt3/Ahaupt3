@@ -1,4 +1,4 @@
-# ![](name.svg)
+<p align=center><img src=name.svg></p>
 
 #### Aspiring Offensive Security professional. Currently finishing my degree in Cybersecurity as well as working on related certifications.
 
