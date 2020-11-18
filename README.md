@@ -32,3 +32,5 @@
 ## :computer: Random Projects
 
 ### <a href="https://github.com/Ahaupt3/Nix-Setup" style="color:#ff0000">Nix-Setup</a> [![](https://img.shields.io/github/stars/Ahaupt3/Nix-Setup?color=ff0000&label=Stars&logo=github&style=plastic)](https://github.com/Ahaupt3/Nix-Setup/stargazers) [![](https://img.shields.io/github/last-commit/Ahaupt3/Nix-Setup?color=ff0000&label=Latest%20Commit&logo=github&style=plastic)](https://github.com/Ahaupt3/Nix-Setup/commits/main)
+
+### <a href="https://github.com/Ahaupt3/Cheatsheets" style="color:#ff0000">Cheatsheets</a> [![](https://img.shields.io/github/stars/Ahaupt3/Nix-Setup?color=ff0000&label=Stars&logo=github&style=plastic)](https://github.com/Ahaupt3/Cheatsheets/stargazers) [![](https://img.shields.io/github/last-commit/Ahaupt3/Cheatsheets?color=ff0000&label=Latest%20Commit&logo=github&style=plastic)](https://github.com/Ahaupt3/Cheatsheets/commits/main)
