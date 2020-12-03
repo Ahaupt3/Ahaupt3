@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/stars/Ahaupt3?color=ff0000&label=Stars&logo=github)
 [![](https://img.shields.io/badge/Twitter-Ahaupt3-informational?style=flat&logo=twitter&logoColor=white&color=ff0000)](https://twitter.com/ahaupt3)
 
-<script src="https://www.hackthebox.eu/badge/137066"></script>
+![](http://www.hackthebox.eu/badge/image/137066)
 
 ## :hammer_and_wrench: Technologies & Tools
 
