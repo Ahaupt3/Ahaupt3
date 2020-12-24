@@ -23,11 +23,15 @@
 [![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=ff0000)](https://golang.org/)
 [![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=ff0000)](https://vuejs.org/)
 
+## :memo: Hack The Box Writeups
+
+[HauptSec.xyz/Writeups/HTB](https://hauptsec.xyz/Writeups/HTB)
+
 ## :crossed_swords: OffSec Projects (coming soon)
 
-- Privately developing & will share when ready
+Privately developing & will share when ready
 
-## :memo: Certification Projects
+## :1st_place_medal: Certification Projects
 
 ### <a href="https://github.com/Ahaupt3/OSCP-Prep" style="color:#ff0000">OSCP-Prep</a> [![](https://img.shields.io/github/stars/Ahaupt3/OSCP-Prep?color=ff0000&label=Stars&logo=github&style=plastic)](https://github.com/Ahaupt3/OSCP-Prep/stargazers) [![](https://img.shields.io/github/last-commit/Ahaupt3/OSCP-Prep?color=ff0000&label=Latest%20Commit&logo=github&style=plastic)](https://github.com/Ahaupt3/OSCP-Prep/commits/main)
 
